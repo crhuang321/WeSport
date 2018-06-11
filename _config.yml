@@ -1,0 +1,5 @@
+JDBC.driver: com.mysql.cj.jdbc.Driver
+JDBC.url: "jdbc:mysql://localhost:3306/wesport?useSSL=true&characterEncoding=utf-8"
+JDBC.username: root
+JDBC.password: mysql0321
+ABOUT.content: "<html><p><br>体操赛事管理系统是一个管理体操比赛的信息系统。该系统的使用者为<br>运动员代表队队长、体操赛事裁判和系统管理员。运动员代表队队长登<br>录系统输入本队运动员信息及参赛项目。系统管理员登录系统安排比赛<br>场次。体操赛事裁判登录系统对运动员表现进行评分。按照年龄和姓别<br>分为7-8岁男子组、7-8岁女子组、9-10岁男子组、9-10岁女子组、<br>11-12岁男子组、11-12岁女子组，共六个比赛组。该系统能够为整个<br>体操赛事提供人员信息存取、赛事编排和成绩公布等服务。<br><br>账号说明: <br>队长———10xx \t\t队医——20xx \t\t教练——30xx <br>运动员——40xx \t\t裁判——50xx \t\t管理员—60xx<br><br>欢迎使用。</p></html>"
