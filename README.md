@@ -87,6 +87,7 @@
 	<br>输入账号和密码即可登录。如果你是新用户请点击注册按钮注册你的信息。
 	- 帮助
 	![avatar](/images/help.png)
+	![avatar](/images/about.png)
 	<br>左上角Help-About菜单项为本系统的相关信息及说明。
 	- 队长登录
 	![avatar](/images/leader.png)
