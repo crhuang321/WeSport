@@ -157,7 +157,4 @@ public class SeeGrade extends JFrame{
 		gradeFrame.setResizable(false);
 		gradeFrame.addWindowListener(new InnerWindowCloser());//窗口关闭
 	}  
-//	public static void main(String args[]){
-//		SeeGrade grade = new SeeGrade();
-//	}
 }

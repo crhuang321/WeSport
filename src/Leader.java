@@ -5,9 +5,7 @@
  */
 import java.awt.*;
 import javax.swing.*;
-
 import org.ho.yaml.Yaml;
-
 import java.awt.event.*;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -361,7 +359,4 @@ public class Leader extends JFrame implements ActionListener{
 			AboutUs au = new AboutUs();
 		}
 	}
-//	public static void main(String args[]){
-//		Leader leader = new Leader(new String("101"));
-//	}
 }

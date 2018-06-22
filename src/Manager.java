@@ -402,7 +402,4 @@ public class Manager extends JFrame implements ActionListener{
 			six.remove(six.getSelectedIndex());
 		}
 	}
-//	public static void main(String args[]){
-//		Manager ref = new Manager(new String("601"));
-//	}
 }

@@ -5,9 +5,7 @@
  */
 import java.awt.*;
 import javax.swing.*;
-
 import org.ho.yaml.Yaml;
-
 import java.awt.event.*;
 import java.util.*;
 import java.io.*;
@@ -300,7 +298,4 @@ public class Referee extends JFrame implements ActionListener{
 			AboutUs au = new AboutUs();
 		}
 	}
-//	public static void main(String args[]){
-//		Referee ref = new Referee(new String("501"));
-//	}
 }

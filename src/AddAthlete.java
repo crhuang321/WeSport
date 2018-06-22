@@ -5,9 +5,7 @@
  */
 import java.awt.*;
 import javax.swing.*;
-
 import org.ho.yaml.Yaml;
-
 import java.awt.event.*;
 import java.io.File;
 import java.io.FileNotFoundException;
