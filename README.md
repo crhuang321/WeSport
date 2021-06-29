@@ -112,4 +112,4 @@
  	![avatar](/images/managerathlete.png)
  	
 ### 4.关于作者
-Copyright © 2018 - 2018 CoolR.All Rights Reserved.
+Copyright © 2018 - 2018 crhuang.All Rights Reserved.
